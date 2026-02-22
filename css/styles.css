@@ -412,7 +412,7 @@ img {
 .footer-block {
   display: flex;
   gap: 120px;
-  align-items: flex-start;
+  align-items: baseline;
 }
 .footer-left,
 .footer-center {
